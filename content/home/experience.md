@@ -47,7 +47,8 @@ date_format = "Jan 2006"
   • Created monthly scorecards for Bosch's suppliers.
   • Responsible for supplier's QAA updates, agreement in which suppliers
   renew their compromise to deliver zero defect products.
-  • Delivered and reviewed supplier's samples."""
+  • Delivered and reviewed supplier's samples.
+  """
 
 [[experience]]
   title = "Industrial Engineer Intern"
