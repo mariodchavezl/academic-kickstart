@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Monterrey, Nuevo León"
   date_start = "2018-08-06"
   date_end = ""
-  description = " 
+  description = """ 
   • Member of the Data Science Research Group.
   • Involved in the Scientometric Area.
   • Received constructive criticism well and turned it into an opportunity
