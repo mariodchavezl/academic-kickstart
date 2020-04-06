@@ -18,13 +18,17 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
+  title = "Junior Research Fellow"
+  company = "Tecnológico de Monterrey"
+  company_url = "https://tec.mx/en"
+  location = "Monterrey, Nuevo León"
+  date_start = "2018-08-06"
   date_end = ""
-  description = """
+  description = " 
+  • Member of the Data Science Research Group.
+  • Involved in the Scientometric Area.
+  • Received constructive criticism well and turned it into an opportunity
+  to grow and improve."
   Responsibilities include:
   
   * Analysing
@@ -33,12 +37,16 @@ date_format = "Jan 2006"
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Purchasing Quality Engineer Intern"
+  company = "BOSCH"
+  company_url = "https://www.bosch.com.mx/en/"
+  location = "Mexicali, Baja California"
+  date_start = "2017-08-30"
+  date_end = "2018-06-31"
+  description = """
+  • Created monthly scorecards for Bosch's suppliers.
+  • Responsible for supplier's QAA updates, agreement in which suppliers
+  renew their compromise to deliver zero defect products.
+  • Delivered and reviewed supplier's samples."""
 
 +++
