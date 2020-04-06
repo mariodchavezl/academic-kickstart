@@ -24,11 +24,10 @@ date_format = "Jan 2006"
   location = "Monterrey, Nuevo León"
   date_start = "2018-08-06"
   date_end = ""
-  description = """ 
-  * Member of the Data Science Research Group.
-  * Involved in the Scientometric Area.
-  * Received constructive criticism well and turned it into an opportunity
-  to grow and improve.
+  description = """
+* Member of the Data Science Research Group.
+* Involved in the Scientometric Area.
+* Received constructive criticism well and turned it into an opportunity to grow and improve.
   """
 
 [[experience]]
@@ -39,10 +38,9 @@ date_format = "Jan 2006"
   date_start = "2017-08-30"
   date_end = "2018-06-31"
   description = """
-  * Created monthly scorecards for Bosch's suppliers.
-  * Responsible for supplier's QAA updates, agreement in which suppliers
-  renew their compromise to deliver zero defect products.
-  * Delivered and reviewed supplier's samples.
+* Created monthly scorecards for Bosch's suppliers.
+* Responsible for supplier's QAA updates, agreement in which suppliers renew their compromise to deliver zero defect products.
+* Delivered and reviewed supplier's samples.
   """
 
 [[experience]]
@@ -53,9 +51,9 @@ date_format = "Jan 2006"
   date_start = "2016-05-30"
   date_end = "2016-09-30"
   description = """ 
- * Successfully carried out a time-motion study analysis for Coca Cola Company's production floor.
- * Profitably changed time-motion methodologies for our client BOSCH, from MOST to Methods Time Measurement (MTM).
- * Coordinated the Industrial Engineers Intern's Team.
+* Successfully carried out a time-motion study analysis for Coca Cola Company's production floor.
+* Profitably changed time-motion methodologies for our client BOSCH, from MOST to Methods Time Measurement (MTM).
+* Coordinated the Industrial Engineers Intern's Team.
   """
   
   [[experience]]
@@ -66,6 +64,6 @@ date_format = "Jan 2006"
   date_start = "2015-03-02"
   date_end = "2016-03-27"
   description = """ 
-  Onus is a startup that aims to support companies by advertising their products and services in an extremely economical way,   while offering their market the opportunity of satisfying their mobile devices needs.
+Onus is a startup that aims to support companies by advertising their products and services in an extremely economical way,   while offering their market the opportunity of satisfying their mobile devices needs.
   """
 +++
