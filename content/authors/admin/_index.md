@@ -42,6 +42,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:mariodchavezl@gmail.com".
+- icon: medium
+  icon_pack: fas
+  link: https://medium.com/@mariodchavezl
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/mariodchavez7
