@@ -28,12 +28,7 @@ date_format = "Jan 2006"
   * Member of the Data Science Research Group.
   * Involved in the Scientometric Area.
   * Received constructive criticism well and turned it into an opportunity
-  to grow and improve."
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  to grow and improve.
   """
 
 [[experience]]
